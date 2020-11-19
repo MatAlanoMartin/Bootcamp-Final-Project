@@ -20,7 +20,7 @@
   /* Add an active class to highlight the current page */
   .active {
     background-color: #02c8e2;
-    color: white;
+    color: red;
   }
   
   /* Hide the link that should open and close the topnav on small screens */
