@@ -1,6 +1,6 @@
 # Bootcamp-Final-Project
 
- test fetch
+ test PUSH
  
 Website project for Gener8or bootcamp. Will include required elements:
 - A navigation menu that collapses into a responsive mobile-friendly menu (such as a “hamburger” menu)
